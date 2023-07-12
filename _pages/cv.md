@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are a few highlights of my educational and professional experiences. For a full .pdf CV, please feel free to reach out to me through the email button in the sidebar!
+These are a few highlights of my educational and professional experiences. For a full .pdf CV, please feel free to reach out to me through the `Email` button in the sidebar!
 
 Education
 ======
