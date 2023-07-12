@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-🤠 I was born and raised in Frisco, Texas.
+
+🤠 I was born and raised in Frisco, Texas, a suburb of Dallas.
 
 📖 I'm in my third year of undergraduate education at Stanford University.
 
 ⚡ I study Electrical Engineering and Computer Science.
 
+💡 Currently doing work in nanoelectronics, specifically digital memory architectures.
+
+Currently seeking summer 2024 opportunities to contribute to dynamic teams and further develop technical and professional skills!
 
 A data-driven personal website
 ======
