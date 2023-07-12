@@ -28,12 +28,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* 
+* Programming
+  * Python, Java, R, C, C++
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Computer-Aided Design
+  * Autodesk Fusion 360
+  * Sentaurus
 
 Publications
 ======
@@ -47,11 +49,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
