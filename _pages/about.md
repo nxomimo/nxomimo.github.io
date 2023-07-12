@@ -15,6 +15,6 @@ redirect_from:
 
 ⚡ I study Electrical Engineering and Computer Science.
 
-💡 Currently conducting research in nanoelectronics, specifically digital memory architectures.
+💡 I am currently conducting research in nanoelectronics, specifically digital memory architectures.
 
-Currently seeking summer 2024 opportunities to contribute to dynamic teams and further develop my technical and professional skills!
+Feel free to browse around to learn more about me and my work! If you would like to get in touch, you can reach me through the email button in the sidebar.
