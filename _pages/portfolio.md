@@ -5,12 +5,19 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Electronics
 ======
 
-{% for post in site.portfolio %}
+{% include base_path %}
+
+
+{% for post in site.eeportfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Programming
+======
+{% for post in site.csportfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
