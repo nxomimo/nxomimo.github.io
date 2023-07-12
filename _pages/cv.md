@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
-* M.S. Candidate in Computer Science, GitHub University, 2026
+* M.S. Candidate in Computer Science, Stanford University, 2026
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Zachary Windous, Aerospace Engineer
 
 * Winter 2015: Research Assistant
-  * Github University
+  * Stanford University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
