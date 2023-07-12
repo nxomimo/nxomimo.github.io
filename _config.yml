@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Naomi Mo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Stanford '25 EE + CS"
   location         : "Stanford, CA"
-  employer         :
+  employer         : "Stanford University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
