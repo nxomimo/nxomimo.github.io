@@ -1,6 +1,6 @@
 ---
 title: "Persistence of Vision Display"
-excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/pov2.png'>"
+excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/pov2.png' width='300'>"
 collection: portfolio
 ---
 
