@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![Angels Landing](/images/profile2.png){: .align-right width="300px"}
+<br>
 🤠 I was born and raised in Dallas, Texas.
 
 📖 I'm in my third year of undergraduate education at Stanford University.
