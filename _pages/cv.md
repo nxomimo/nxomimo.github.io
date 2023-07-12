@@ -69,6 +69,7 @@ Skills
   * C
   * C++
   * MATLAB
+  * Bash
 * Computer-Aided Design
   * Autodesk Fusion 360
   * Sentaurus

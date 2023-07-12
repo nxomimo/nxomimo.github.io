@@ -7,8 +7,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Programming"
-    url: /publications/
+  #- title: "Programming"
+  #  url: /publications/
 
   #- title: "Publications"
   #  url: /publications/    
