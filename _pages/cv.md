@@ -15,7 +15,8 @@ Education
 ======
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
 * M.S. Candidate in Computer Science, Stanford University, 2026
-<br>
+
+<br/>
 
 Work experience
 ======
@@ -28,7 +29,8 @@ Work experience
   * Stanford University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-<br>
+
+<br/>
 
 Notable Courses Taken
 ======
@@ -59,7 +61,8 @@ Notable Courses Taken
   * MATSCI86N: Materials Science of Metals
   * MS&E 471: Entrepreneurial Thought Leaders' Seminar
   
-<br>
+<br/>
+
 Skills
 ======
 * Programming
@@ -81,7 +84,7 @@ Skills
   * Circuit Design
   * Raspberry Pi, Arduino
 * Microsoft Office Suite
-<br>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
