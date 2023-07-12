@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are a few highlights of my educational and professional experiences. For a full .pdf CV, please feel free to reach out to me through the `Email` button in the sidebar!
+These are just a few highlights of my educational and professional experiences. For a full .pdf CV, please feel free to reach out to me through the `Email` button in the sidebar!
 
 <br/>
 
@@ -34,29 +34,29 @@ Work experience
 
 Notable Courses Taken
 ======
-* ***Electrical Engineering***
+* **Electrical Engineering**
   * *E40M:* Introduction to Electrical Engineering
   * *EE101A/B:* Circuits I & II
   * *EE102A/B:* Signal Processing and Linear Sysmtes I & II
   * *EE11SC:* Dream It, Build It!
-* ***Computer Science***
+* **Computer Science**
   * *CS106A:* Programming Basics
   * *CS106B:* Programming Abstractions (Data Structures)
   * *CS107E:* Computer Systems
-* ***Science***
+* **Science**
   * *PHYSICS 41 & 42:* Mechanics + Laboratory
   * *PHYSICS 43 & 44:* Electricity & Magnetism + Laboratory
   * *PHYSICS 45 & 46:* Light & Heat (Introductory Thermodynamics) + Laboratory
-* ***Math***
+* **Math** 
   * *MATH51:* Linear Algebra and Multivariable Calculus
   * *MATH53:* Differential Equations and Fourier Methods
-* ***Writing***
+* **Writing**
   * *PWR1DB:* Writing & Rhetoric 1: The Rhetoric of Collective Memory
   * *PWR2KRA:* Writing & Rhetoric 2: Writing and Speaking Amid Crisis and Emergence
   * *THINK49:* Stories Everywhere (Creative Writing)
-* ***Language***
+* **Language**
   * *CHINLANG 1,2,3:* First-year Modern Chinese
-* ***Other***
+* **Other**
   * *ME1:* Introduction to Mechanical Engineering
   * *MATSCI86N:* Materials Science of Metals
   * *MS&E471:* Entrepreneurial Thought Leaders' Seminar
@@ -65,7 +65,6 @@ Notable Courses Taken
 
 Skills
 ======
-* Leadership
 * Programming
   * Python, Java, R, C, C++, MATLAB, Bash
 * Computer-Aided Design
