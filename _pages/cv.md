@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Me"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+For a full CV, please contact me!
 
 Education
 ======
