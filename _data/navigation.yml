@@ -7,14 +7,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Other Projects"
+  - title: "Programming"
     url: /publications/
 
   #- title: "Publications"
   #  url: /publications/    
     
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Other Projects"
+    url: /teaching/
         
   #- title: "Blog Posts"
   #  url: /year-archive/

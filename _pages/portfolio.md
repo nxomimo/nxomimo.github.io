@@ -1,23 +1,15 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "EE Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
-Electronics
-======
 
 {% include base_path %}
 
-
-{% for post in site.eeportfolio %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
-Programming
-======
-{% for post in site.csportfolio %}
-  {% include archive-single.html %}
-{% endfor %}
 
