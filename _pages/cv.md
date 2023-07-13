@@ -14,6 +14,7 @@ These are just a few highlights of my educational and professional experiences. 
 <br/>
 
 ![POV](/images/stanford2.png){: .align-right width="200"}
+
 Education
 ======
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
