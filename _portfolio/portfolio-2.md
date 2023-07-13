@@ -1,6 +1,6 @@
 ---
 title: "Speaker System Circuit"
-excerpt: "Below is Texas Instruments' TPA3122D2 evaluation module schematic, which I brought to life in a custom circuit<br/><img src='/images/tsspeaker.png' width='400'>"
+excerpt: "Below is Texas Instruments' TPA3122D2 evaluation module schematic, which I brought to life in a custom circuit<br/><img src='/images/tsspeaker.png' width='500'>"
 collection: portfolio
 ---
 
