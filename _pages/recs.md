@@ -9,9 +9,10 @@ These are a few recommendations from previous employers and instructors that wer
 
 NASA Recommendation - Zachary Windous
 ======
+![POV](/images/zwrl.png){: .align-center}
 
-
+<br/>
 
 E40M Class Recommendation - Professor Tom Lee
 ======
-
+![POV](/images/tlrl.png){: .align-center}
