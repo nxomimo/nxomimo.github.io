@@ -21,10 +21,10 @@ My next goal is to laser cut an acrylic housing for the speaker so that it has a
 
 <br/>
 
-![POV](/images/speaker.png){: .align-center width="300px"}
 *Speaker circuitry (speaker components not pictured) on blank PCB, attached to a custom-built AC/DC converter on another blank PCB.*
+![POV](/images/speaker.png){: .align-right width="300px"}
 
 <br/>
 
-![POV](/images/speaker2.png){: .align-center width="300px"}
 *One of two speaker outputs.*
+![POV](/images/speaker2.png){: .align-right width="300px"}
