@@ -4,6 +4,7 @@ excerpt: "*Creative writing work published in Leland Quarterly's Fall 2022 Issue
 collection: portfolio
 ---
 
+![POV](/images/lq.png){: .align-left}
 
 Personal poem published in Leland Quarterly's 2022 Fall Issue: "In Newness of Life", page 19. Leland Quarterly is Stanford's premier literary magazine for writing, art, and creative expression.
 

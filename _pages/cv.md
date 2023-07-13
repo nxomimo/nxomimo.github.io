@@ -32,7 +32,7 @@ Work experience
 
 <br/>
 
-Notable Courses Taken
+Notable Coursework
 ======
 * **Electrical Engineering**
   * *E40M:* Introduction to Electrical Engineering
@@ -69,7 +69,7 @@ Skills
   * Python, Java, R, C, C++, MATLAB, Bash
 * Computer-Aided Design + 3D Printing
   * Autodesk Fusion 360, Sentaurus
-![Gondor print](/images/gondor.png){: .align-center width="300px"}
+![Gondor print](/images/gondor.png){: .align-left width="300px"}
 * Electronics Software
   * KiCad, LTSpice, EveryCircuit
 * Hardware
