@@ -4,6 +4,8 @@ excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/500x300.pn
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The final project in my Signal Proceessing and Linear Systems II class was to analyze a given data set of ice sheet radar scans and, using signal processing techniques taught in the class, filter out any noise that was impeding the radar return signal. The ultimate goal was to obtain a clear radargram of where the bed of the ice sheet lived, and to boost the signal-to-noise (SNR) ratio as much as possible. 
 
-[project GitHub](https://github.com/nxomimo/EE102B-Final-Project/tree/main)
+We were provided .scipy starter code that accessed the data, as well as displayed a corresponding spectrogram and radargram. My group focused on boosting the SNR ratio by implementing a dynamic band-stop filter that changed its bandstop frequency range with time, depending on where the heart of the noise lived. I also tried to implment a bandstop filter that dynamically adjusted its bandstop range depending on which frequencies displayed the greatest spectral densities at given moments in time, as these frequencies indicated high noise.
+
+If you'd like to access the project repository to observe our code and our final report, you can find it all [here](https://github.com/nxomimo/EE102B-Final-Project/tree/main).
