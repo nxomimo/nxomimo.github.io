@@ -1,7 +1,11 @@
 ---
-title: "Persistence of Vision Device"
-excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/500x300.png'>"
+title: "Leland Quarterly Poem Publication"
+excerpt: "*Creative writing work published in Leland Quarterly's Fall 2022 Issue.*<br/><img src='/images/lq1.png' width='500'"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![POV](/images/lq2.png){: .align-center width="300px"}
+
+Personal poem published in Leland Quarterly's 2022 Fall Issue: "In Newness of Life", page 19. Leland Quarterly is Stanford's premier literary magazine for writing, art, and creative expression.
+
+I often write poetry in my spare time as a form of catharsis: a methodology to process what I've been through, as well as reflect on where I'm going. I rarely share my poetry with others, but I'm challenging myself this year to start submitting to journals more often. If you would like to read the poem, you can find it [here](https://issuu.com/lelandquarterly/docs/lqfall2022_11479_).

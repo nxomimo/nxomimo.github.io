@@ -1,5 +1,5 @@
 ---
-title: "printf Module"
+title: "Printf Module"
 excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
