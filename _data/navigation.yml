@@ -13,8 +13,8 @@ main:
   #- title: "Publications"
   #  url: /publications/    
     
-  - title: "Other Projects"
-    url: /otherproj/
+  - title: "Recommendations"
+    url: /recs/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
