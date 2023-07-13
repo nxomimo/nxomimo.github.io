@@ -20,13 +20,17 @@ Education
 
 <br/>
 
+![POV](/images/stanford.png){: .align-center width="500"}
+
+<br/>
+
 Work Experience
 ======
 * *Stanford Nanoelectronics Lab, Professor Philip Wong's Group*
   * Mar 2023 - Present, Undergraduate Researcher
 * *NASA Langley Aeronautics Systems Analysis Branch (ASAB)*
   * Summer 2022, Aerospace Engineering Intern
-* *Dresselhaus-Marais Research Group*
+* *Stanford Materials Science, Dresselhaus-Marais Research Group*
   * Dec 2021 - Sep 2022, Undergraduate Researcher
 * *East West*
   * Jan 2021 - Aug 2021, IT Intern and Financial Analyst Intern
@@ -46,7 +50,7 @@ Notable Coursework
   * *EE102A/B:* Signal Processing and Linear Systems I & II
 * **Computer Science**
   * *CS106B:* Programming Abstractions (Data Structures)
-  * *CS107E:* Computer Systems
+  * *CS107E:* Computer Systems from the Ground Up
 * **Math** 
   * *MATH51:* Linear Algebra and Multivariable Calculus
   * *MATH53:* Differential Equations and Fourier Methods
