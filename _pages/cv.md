@@ -20,7 +20,7 @@ Education
 
 <br/>
 
-![POV](/images/stanford.png){: .align-center width="500"}
+![POV](/images/stanford.png){: .align-center width="800"}
 
 <br/>
 
@@ -39,9 +39,11 @@ Work Experience
 * *Children's Health*
   * Oct 2018 - Aug 2019, Endocrinology Clinic Intern
 
-![POV](/images/nasa.png){: .align-left width="500"}
-![POV](/images/utsw.png){: .align-center width="500"}
-![POV](/images/nano.png){: .align-right width="500"}
+<p float="left">
+  <img src="/images/nasa.png" width="100" />
+  <img src="/images/utsw.png" width="100" /> 
+  <img src="/images/nano.png" width="100" />
+</p>
 
 <br/>
 
