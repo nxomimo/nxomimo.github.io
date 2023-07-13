@@ -19,8 +19,8 @@ You can view photos, code, and further descriptions of our work on [the project 
 ![POV](/images/hall.png){: .align-center width="300px"}
 *Hall sensor that detects changes in the nearby magnetic field to trigger different LED patterns.*
 
-<iframe width="560" height="315"
+<video width="560" height="315"
 src="/videos/pov.mov" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+allowfullscreen></video>

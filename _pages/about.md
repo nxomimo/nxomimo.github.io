@@ -16,6 +16,6 @@ redirect_from:
 
 ⚡ *I study **Electrical Engineering** and Computer Science.*
 
-💡 *I am currently conducting research in **nanoelectronics**, specifically digital memory architectures.*
+📱 *I am currently conducting research in **nanoelectronics**, specifically digital memory architectures.*
 
 Feel free to browse around to learn more about me and my work! If you would like to get in touch, you can reach me through the `Email` button in the sidebar.
