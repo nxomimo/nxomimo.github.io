@@ -25,8 +25,8 @@ Education
 Work Experience
 ======
 * *Stanford Nanoelectronics Lab, Professor Philip Wong's Group*
-![POV](/images/nano.png){: .align-right width="300"}
   * Mar 2023 - Present, Undergraduate Researcher
+![POV](/images/nano.png){: .align-right width="300"}
 * *NASA Langley Aeronautics Systems Analysis Branch (ASAB)*
   * Summer 2022, Aerospace Engineering Intern
 * *Stanford Materials Science, Dresselhaus-Marais Research Group*
