@@ -27,6 +27,7 @@ Education
 Work Experience
 ======
 * *Stanford Nanoelectronics Lab, Professor Philip Wong's Group*
+![POV](/images/nano.png){: .align-right width="300"}
   * Mar 2023 - Present, Undergraduate Researcher
 * *NASA Langley Aeronautics Systems Analysis Branch (ASAB)*
   * Summer 2022, Aerospace Engineering Intern
@@ -47,21 +48,6 @@ Work Experience
 
 <br/>
 
-Notable Coursework
-======
-* **Electrical Engineering**
-  * *E40M:* Introduction to Electrical Engineering
-  * *EE101A/B:* Circuits I & II
-  * *EE102A/B:* Signal Processing and Linear Systems I & II
-* **Computer Science**
-  * *CS106B:* Programming Abstractions (Data Structures)
-  * *CS107E:* Computer Systems from the Ground Up
-* **Math** 
-  * *MATH51:* Linear Algebra and Multivariable Calculus
-  * *MATH53:* Differential Equations and Fourier Methods
-  
-<br/>
-
 Technical Skills
 ======
 * Data Analysis
@@ -74,7 +60,6 @@ Technical Skills
 * Hardware
   * Circuit design, Raspberry Pi, Arduino
 * Microsoft Office Suite
-
 
 <br/>
 
