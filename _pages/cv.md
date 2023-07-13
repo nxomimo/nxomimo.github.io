@@ -13,7 +13,7 @@ These are just a few highlights of my educational and professional experiences. 
 
 <br/>
 
-![POV](/images/stanford2.png){: .align-right width="200"}
+![POV](/images/stanford2.png){: .align-right width="300"}
 
 Education
 ======
