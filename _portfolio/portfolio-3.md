@@ -1,6 +1,6 @@
 ---
 title: "Program for Filtering Noise from Ice Sheet Radar Data"
-excerpt: "*Applying signal processing techniques to boost signal-to-noise ratio in a data set.*<br/><img src='/images/500x300.png'>"
+excerpt: "*Applying signal processing techniques to boost signal-to-noise ratio in a data set.*<br/><img src='/images/102b.png'>"
 collection: portfolio
 ---
 
