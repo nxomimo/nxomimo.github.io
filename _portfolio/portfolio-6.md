@@ -4,4 +4,4 @@ excerpt: "*Graphics and framebuffer modules built in C on bare-metal Raspberry P
 collection: portfolio
 ---
 
-Another difficult task in my systems programming class was to develop a framebuffer module and graphics library on bare-metal Raspberry Pi. This assignment gave me *by far* the most headaches of all the tasks, mainly due to some tricky memory clean-up errors! Check out the code in [this Github repository](https://gitfront.io/r/nxomimo/mMQR5JtQEgLy/graphics/).
+I developed a framebuffer module and graphics library on bare-metal Raspberry Pi. This assignment gave me *by far* the most headaches of my bare-metal Pi projects, mainly due to some tricky memory clean-up errors! Check out the code in [this Github repository](https://gitfront.io/r/nxomimo/mMQR5JtQEgLy/graphics/).
