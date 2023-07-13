@@ -39,6 +39,9 @@ Work Experience
 * *Children's Health*
   * Oct 2018 - Aug 2019, Endocrinology Clinic Intern
 
+![POV](/images/nasa.png){: .align-left width="500"}
+![POV](/images/utsw.png){: .align-center width="500"}
+![POV](/images/nano.png){: .align-right width="500"}
 
 <br/>
 
