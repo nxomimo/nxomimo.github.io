@@ -37,7 +37,7 @@ Notable Courses Taken
 * **Electrical Engineering**
   * *E40M:* Introduction to Electrical Engineering
   * *EE101A/B:* Circuits I & II
-  * *EE102A/B:* Signal Processing and Linear Sysmtes I & II
+  * *EE102A/B:* Signal Processing and Linear Systems I & II
   * *EE11SC:* Dream It, Build It!
 * **Computer Science**
   * *CS106A:* Programming Basics

@@ -1,6 +1,6 @@
 ---
 title: "Persistence of Vision Display"
-excerpt: "Scrappy rotating LED display built on Raspberry Pi... and a disassembled Honeywell fan<br/><img src='/images/pov2.png' width='400'>"
+excerpt: "*Scrappy rotating LED display built on Raspberry Pi... and a disassembled Honeywell fan.*<br/><img src='/images/pov2.png' width='400'>"
 collection: portfolio
 ---
 
