@@ -15,7 +15,7 @@ These are just a few highlights of my educational and professional experiences. 
 
 Education
 ======
-![POV](/images/stanford2.png){: .align-left width="200"}
+![POV](/images/stanford2.png){: .align-right width="200"}
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
 * M.S. Candidate in Computer Science, Stanford University, 2026
 
