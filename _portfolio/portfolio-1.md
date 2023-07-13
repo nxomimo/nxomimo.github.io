@@ -19,4 +19,4 @@ You can view photos, code, and further descriptions of our work on [the project 
 ![POV](/images/hall.png){: .align-center width="300px"}
 *Hall sensor that detects changes in the nearby magnetic field to trigger different LED patterns.*
 
-/videos/pov.mov
+https://github.com/nxomimo/nxomimo.github.io/videos/pov.mov
