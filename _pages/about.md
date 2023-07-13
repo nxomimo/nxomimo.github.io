@@ -18,6 +18,6 @@ redirect_from:
 
 📱 *I am currently conducting research in **nanoelectronics**, specifically digital memory architectures.*
 
-*I also enjoy hiking ⛰️, snowboarding 🏂, and playing marimba 🎵.*
+*Beyond studying bits and bytes, I also enjoy **hiking** ⛰️, **reading Tolkien** 🧝🏻‍♂️, and **playing marimba** 🎵.*
 
 Feel free to browse around to learn more about me and my work! If you would like to get in touch, you can reach me through the `Email` button in the sidebar.
