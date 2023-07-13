@@ -1,5 +1,5 @@
 ---
-title: "Graphics Library and Display Module"
+title: "Graphics Library and Display Modules"
 excerpt: "*Graphics and framebuffer modules built in C on bare-metal Raspberry Pi.*<br/>"
 collection: portfolio
 ---
