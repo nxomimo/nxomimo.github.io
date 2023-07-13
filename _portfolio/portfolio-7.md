@@ -6,4 +6,4 @@ collection: portfolio
 
 Personal poem published in Leland Quarterly's 2022 Fall Issue: "In Newness of Life". Leland Quarterly is Stanford's premier literary magazine for writing, art, and creative expression.
 
-I often write poetry in my spare time as a form of catharsis: a method to process what I've been through, as well as reflect on where I'm going. I rarely share my poetry with others, but I'm challenging myself this year to start submitting to journals more often. If you would like to read the poem, you can find it [here](https://issuu.com/lelandquarterly/docs/lqfall2022_11479_) on page 19.
+I often write poetry in my spare time as a form of catharsis: a method to process what I've been through, as well as reflect on where I'm going. If you would like to read this poem, you can find it [here](https://issuu.com/lelandquarterly/docs/lqfall2022_11479_) on page 19.
