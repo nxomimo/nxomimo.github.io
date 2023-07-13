@@ -1,6 +1,6 @@
 ---
 title: "Printf Module"
-excerpt: "*String processing and basic printf modules built in C on bare-metal Raspberry Pi.*<br/><img src='/images/printf.png' width='500'>"
+excerpt: "*String processing and basic printf (with ARM encoding disassembly) modules built in C on bare-metal Raspberry Pi.*<br/><img src='/images/printf.png' width='500'>"
 collection: portfolio
 ---
 
