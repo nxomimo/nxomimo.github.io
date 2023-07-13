@@ -15,11 +15,9 @@ These are just a few highlights of my educational and professional experiences. 
 
 Education
 ======
-![POV](/images/stanford2.png){: .align-left width="300"}
+![POV](/images/stanford2.png){: .align-left width="200"}
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
 * M.S. Candidate in Computer Science, Stanford University, 2026
-
-<br/>
 
 <br/>
 
@@ -36,16 +34,9 @@ Work Experience
 * *East West*
   * Jan 2021 - Aug 2021, IT Intern and Financial Analyst Intern
 * *UT Southwestern Medical Center, Busch Lab*
-![POV](/images/utsw.png){: .align-right width="300"}
   * Sep 2019 - Jul 2020 Biomechanical Engineering Intern
 * *Children's Health*
   * Oct 2018 - Aug 2019, Endocrinology Clinic Intern
-
-<p float="left">
-  <img src="/images/nano.png" width="200" />
-  <img src="/images/nasa.png" width="200" /> 
-  <img src="/images/utsw.png" width="200" />
-</p>
 
 <br/>
 
