@@ -32,10 +32,12 @@ Work Experience
 * *NASA Langley Aeronautics Systems Analysis Branch (ASAB)*
   * Summer 2022, Aerospace Engineering Intern
 * *Stanford Materials Science, Dresselhaus-Marais Research Group*
+![POV](/images/nasa.png){: .align-right width="300"}
   * Dec 2021 - Sep 2022, Undergraduate Researcher
 * *East West*
   * Jan 2021 - Aug 2021, IT Intern and Financial Analyst Intern
 * *UT Southwestern Medical Center, Busch Lab*
+![POV](/images/utsw.png){: .align-right width="300"}
   * Sep 2019 - Jul 2020 Biomechanical Engineering Intern
 * *Children's Health*
   * Oct 2018 - Aug 2019, Endocrinology Clinic Intern
