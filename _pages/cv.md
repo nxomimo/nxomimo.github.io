@@ -40,9 +40,9 @@ Work Experience
   * Oct 2018 - Aug 2019, Endocrinology Clinic Intern
 
 <p float="left">
-  <img src="/images/nasa.png" width="100" />
-  <img src="/images/utsw.png" width="100" /> 
-  <img src="/images/nano.png" width="100" />
+  <img src="/images/nano.png" width="200" />
+  <img src="/images/nasa.png" width="200" /> 
+  <img src="/images/utsw.png" width="200" />
 </p>
 
 <br/>
@@ -62,20 +62,18 @@ Notable Coursework
   
 <br/>
 
-Skills
+Technical Skills
 ======
+* Data Analysis
 * Programming
   * Python, Java, R, C, C++, MATLAB, Bash
 * Computer-Aided Design
-  * Autodesk Fusion 360, Sentaurus
+  * Autodesk Fusion 360
 * Electronics Software
-  * KiCad, LTSpice
+  * KiCad, LTSpice, Sentaurus
 * Hardware
   * Circuit design, Raspberry Pi, Arduino
 * Microsoft Office Suite
-* 
-
-![Gondor print](/images/gondor.png){: .align-left width="300px"}
 
 
 <br/>
