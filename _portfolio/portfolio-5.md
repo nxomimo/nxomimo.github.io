@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Memory Allocator"
-excerpt: "*Memory allocation modules malloc and free built in C on bare-metal Raspberry Pi*.<br/>"
+excerpt: "*Memory allocation modules malloc and free built in C on bare-metal Raspberry Pi.*<br/>"
 collection: portfolio
 ---
 
