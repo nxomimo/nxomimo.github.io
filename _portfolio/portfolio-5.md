@@ -1,7 +1,7 @@
 ---
-title: "Persistence of Vision Device"
-excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/500x300.png'>"
+title: "Dynamic Memory Allocator"
+excerpt: "*Memory allocation modules malloc and free built in C on bare-metal Raspberry Pi*.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+One assignment in my computer systems class was to implement a basic dynamic memory allocator on bare-metal Raspberry Pi. If you'd like to look at my implementation, feel free to check out this [link to GitHub repository](https://gitfront.io/r/nxomimo/jNxf6mr69M68/malloc/). Note that heap_workflow.c and nameless.c were already provided to me; I only implemented malloc.c, backtrace.c, and the testing file.

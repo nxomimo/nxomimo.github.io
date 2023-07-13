@@ -1,6 +1,6 @@
 ---
 title: "Persistence of Vision Display"
-excerpt: "*Scrappy rotating LED display built on Raspberry Pi... 
+excerpt: "*Scrappy rotating LED display built on bare-metal Raspberry Pi... 
 and a disassembled Honeywell fan.*<br/><img src='/images/pov2.png' width='400'>"
 collection: portfolio
 ---
@@ -12,15 +12,11 @@ This was my final project for [CS107E](https://cs107e.github.io/about/), Stanfor
 
 This project was made possible by my awesome project partners (shoutout Didi and Aanya!), many nights in Stanford's Lab64, and my friend Frances' loaned Honeywell fan. We were on a tight deadline and had to source out parts quickly, hence our mangling of the Honeywell fan for its motor, but we were quite satsfied with the final product as we managed to display a soccer ball!
 
-You can view photos, code, and further descriptions of our work on [the project GitHub, hosted on Didi's repository](https://github.com/didikamalova/POV-Display-RaspberryPi).
+You can view photos, code, and further descriptions of our work on [the project GitHub, hosted on Didi's repository](https://github.com/didikamalova/POV-Display-RaspberryPi). Unfortunately, videos of the project do not compliment the "persistence of vision" effect as camera frame rates are faster than those of our eyes.
 
 <br/>
 
 ![POV](/images/hall.png){: .align-center width="300px"}
 *Hall sensor that detects changes in the nearby magnetic field to trigger different LED patterns.*
 
-<video width="560" height="315"
-src="/videos/pov.mov" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></video>
+/videos/pov.mov
