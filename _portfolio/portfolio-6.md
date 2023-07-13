@@ -1,6 +1,6 @@
 ---
 title: "Graphics Library and Display Module"
-excerpt: "*Scrappy project built on bare-metal Raspberry Pi*<br/><img src='/images/500x300.png'>"
+excerpt: "*Graphics module built on bare-metal Raspberry Pi*<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

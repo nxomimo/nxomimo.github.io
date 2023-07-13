@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are just a few highlights of my educational and professional experiences. For a full .pdf CV, please feel free to reach out to me through the `Email` button in the sidebar!
+These are just a few highlights of my educational and professional experiences. For a full .pdf resume, please reach out to me through the `Email` button in the sidebar!
 
 <br/>
 
@@ -69,6 +69,7 @@ Skills
   * Python, Java, R, C, C++, MATLAB, Bash
 * Computer-Aided Design
   * Autodesk Fusion 360, Sentaurus
+![Gondor print](/images/gondor.png){: .align-right width="300px"}
 * Electronics Software
   * KiCad, LTSpice, EveryCircuit
 * Hardware

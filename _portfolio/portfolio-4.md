@@ -1,6 +1,6 @@
 ---
 title: "Printf Module"
-excerpt: "Scrappy project built on Raspberry Pi<br/><img src='/images/500x300.png'>"
+excerpt: "*String processing and basic printf modules built on bare-metal Raspberry Pi*<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

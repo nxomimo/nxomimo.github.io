@@ -6,7 +6,7 @@ collection: portfolio
 
 The final lab objective for my Circuits II class was to create a functional speaker system utilizing Texas Instruments' TPA3122D2 EVM schematic.
 
-![POV](/images/tsspeaker.png){: .align-center width="400"}
+![POV](/images/tsspeaker.png){: .align-center width="500"}
 
 Tasks for this project included:
 
@@ -19,5 +19,12 @@ Tasks for this project included:
 
 My next goal is to laser cut an acrylic housing for the speaker so that it has a more aesthetic (and safe) presentation, as opposed to its current state of free wires and exposed connections.
 
+<br/>
+
 ![POV](/images/speaker.png){: .align-center width="300px"}
 *Speaker circuitry (speaker components not pictured) on blank PCB, attached to a custom-built AC/DC converter on another blank PCB.*
+
+<br/>
+
+![POV](/images/speaker2.png){: .align-center width="300px"}
+*One of two speaker outputs.*
