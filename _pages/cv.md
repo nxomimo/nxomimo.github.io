@@ -18,7 +18,7 @@ These are just a few highlights of my educational and professional experiences. 
 Education
 ======
 * B.S. Candidate in Electrical Engineering, Stanford University, 2025
-* M.S. Candidate in Computer Science, Stanford University, 2026
+* M.S. Candidate in Electrical Engineering, Stanford University, 2026
 
 <br/>
 
@@ -26,6 +26,12 @@ Work Experience
 ======
 * *Stanford Nanoelectronics Lab, Professor Philip Wong's Group*
   * Mar 2023 - Present, Undergraduate Researcher
+* *PEAK6 Capital Management*
+  * June 2025 - Aug 2025, Quantitative Trading Intern
+* *D. E. Shaw & Co, LP*
+  * June 2024 - Aug 2024, Strategy Intern
+* *Stanford Sophomore College: EE11SC Dream It, Build It*
+  * Sep 2023 - Sep 2024, Course Assistant
 ![POV](/images/nano.png){: .align-right width="300"}
 * *NASA Langley Aeronautics Systems Analysis Branch (ASAB)*
   * Summer 2022, Aerospace Engineering Intern
