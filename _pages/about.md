@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Angels Landing](/images/profile2.png){: .align-right width="300px"}
+![Stanford](/images/stanford2.png){: .align-right width="300px"}
 <br>
 🤠 *I was born and raised in **Dallas, Texas.***
 
