@@ -12,7 +12,7 @@ redirect_from:
 <br>
 🤠 *I was born and raised in **Dallas, Texas.***
 
-📖 *I'm in my **senior year** of undergraduate education at Stanford University.*
+📖 *I recently completed my BS in EE at Stanford University, and am now finishing my MS in EE.*
 
 ⚡ *I study **Electrical Engineering** and Computer Science.*
 
