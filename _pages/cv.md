@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-These are just a few highlights of my educational and professional experiences. For a full .pdf resume, please reach out to me through the `Email` button in the sidebar!
+These are just a few highlights of my educational and professional experiences. For a full PDF resume, please reach out to me through the `Email` button in the sidebar!
 
 <br/>
 
