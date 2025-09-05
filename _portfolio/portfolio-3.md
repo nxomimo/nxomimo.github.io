@@ -4,6 +4,7 @@ excerpt: "*Below is Texas Instruments' TPA3122D2 evaluation module schematic, wh
 collection: portfolio
 ---
 
+## Overview
 The final lab objective for my Circuits II class was to create a functional speaker system utilizing Texas Instruments' TPA3122D2 EVM schematic.
 
 ![POV](/images/tsspeaker.png){: .align-center width="500"}
@@ -17,6 +18,7 @@ Tasks for this project included:
 * testing and troubleshooting any bad connections
 * jamming out!
 
+## Next Steps
 My next goal is to laser cut an acrylic housing for the speaker so that it has a more aesthetic (and safe) presentation, as opposed to its current state of free wires and exposed connections.
 
 <br/>
