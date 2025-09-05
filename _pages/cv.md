@@ -51,14 +51,15 @@ Technical Skills
 ======
 * Data Analysis
 * Programming
-  * Python, Java, R, C, C++, MATLAB, Bash
+  * Python, C, C++, MATLAB, Assembly (MIPS, RISC-V)
+* HDFL & Digital Design
+  * Verilog, SystemVerilog, FPGA (Vivado), testbench development
+* EDA & Simulation Tools
+  * Cadence Virtuoso, Synopsys Design Compiler, SPICE (LTspice), Sentaurus Device
+* OS & Environments
+  * Linux, Git, Bash, make
 * Computer-Aided Design
-  * Autodesk Fusion 360
-* Electronics Software
-  * KiCad, LTSpice, Sentaurus
-* Hardware
-  * Circuit design, Raspberry Pi, Arduino
-* Microsoft Office Suite
+  * Autodesk Fusion 360 CAD
 
 <br/>
 
