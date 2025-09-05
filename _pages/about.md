@@ -26,4 +26,4 @@ In the past I’ve interned at NASA (aerospace engineering), conducted semicondu
 
 While my hardware experience is mostly academic, I’m eager to learn quickly on the job and **contribute wherever I can in the industry**. 
 
-Please let me know if you all are open to chatting at some point!
+Please let me know if you are open to chatting!
