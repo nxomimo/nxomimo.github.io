@@ -4,8 +4,9 @@ excerpt: "*Programming a PYNQ FPGA board to play a song from pure tones (sine wa
 collection: portfolio
 ---
 
-![POV](/images/pov.png){: .align-right width="290"}
-A spherical persistence of vision (POV) LED Display that works by spinning a circular array of LEDs and relies on the eyes' natural “refresh rates” to create the illusion of a solid, continuous image on a sphere. Equipped with an LED strip, a hall sensor, 3 battery packs and framed in a disassembled desk fan, it creates patterns by reacting to magnets spaced across the circular base.
+![POV](/images/chordv.png){: .align-right width="290"}
+This was my final project for EE108, Stanford's undergraduate course in digital systems design.
+
 
 This was my final project for [CS107E](https://cs107e.github.io/about/), Stanford's intensive systems programming course taught on Raspberry Pi. Although my group was inspired by online resources (namely [this one](https://youtu.be/g7_VKGsEKeA)), we coded every module for the project ourselves in C on Raspberry Pi, including the hall sensor driver, the LED driver, and the timing algorithm.
 
