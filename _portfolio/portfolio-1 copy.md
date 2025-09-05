@@ -1,5 +1,5 @@
 ---
-title: "Music Synthesizer and Display on FPGA"
+title: "Various Computer Systems Architecture Projects"
 excerpt: "*Programming a PYNQ FPGA board to play a song from pure tones (sine waves) stored in memory, toggle between songs on button inputs, and display note waveforms on an external monitor.*<br/><img src='/images/fpga1.png' width='400'>"
 collection: portfolio
 ---
