@@ -1,7 +1,6 @@
 ---
-title: "Persistence of Vision Display"
-excerpt: "*Scrappy rotating LED display built on bare-metal Raspberry Pi... 
-and a disassembled Honeywell fan.*<br/><img src='/images/pov_main.png' width='400'>"
+title: "Music Synthesizer and Display on FPGA"
+excerpt: "*Programming a PYNQ FPGA board to play a song from pure tones (sine waves) stored in memory, toggle between songs on button inputs, and display note waveforms on an external monitor.*<br/><img src='/images/fpga1.png' width='400'>"
 collection: portfolio
 ---
 

@@ -1,12 +1,31 @@
 ---
-title: "Program for Filtering Noise from Ice Sheet Radar Data"
-excerpt: "*Applying signal processing techniques to boost signal-to-noise ratio in a data set.*<br/><img src='/images/102b.png' width='350'>"
+title: "Speaker System Circuit"
+excerpt: "*Below is Texas Instruments' TPA3122D2 evaluation module schematic, which I brought to life in a speaker circuit.*<br/><img src='/images/tsspeaker.png' width='500'>"
 collection: portfolio
 ---
-![POV](/images/spectrogram.png){: .align-center width="500"}
 
-The final project in my Signal Proceessing and Linear Systems II class was to analyze a given data set of ice sheet radar scans and, using signal processing techniques taught in the class, filter out any noise that was impeding the radar return signal. The ultimate goal was to obtain a clear radargram of where the bed of the ice sheet lived, and to boost the signal-to-noise (SNR) ratio as much as possible. 
+The final lab objective for my Circuits II class was to create a functional speaker system utilizing Texas Instruments' TPA3122D2 EVM schematic.
 
-We were provided .scipy starter code that accessed the data, as well as displayed a corresponding spectrogram and radargram. My group focused on boosting the SNR ratio by implementing a dynamic band-stop filter that changed its bandstop frequency range with time, depending on where the heart of the noise lived. I also tried to implment a bandstop filter that dynamically adjusted its bandstop range depending on which frequencies displayed the greatest spectral densities at given moments in time, as these frequencies indicated high noise.
+![POV](/images/tsspeaker.png){: .align-center width="500"}
 
-If you'd like to access the project repository to observe our code, you can find it all [here](https://github.com/nxomimo/EE102B-Final-Project/tree/main). The final project report can also be accessed [here as a .pdf](/files/EE102BFinal.pdf).
+Tasks for this project included:
+
+* planning where to arrange components
+* soldering components onto a blank PCB
+* soldering in an audio jack through which a Bluetooth/FM transmitter interfaces
+* forming output connections to two speakers
+* testing and troubleshooting any bad connections
+* jamming out!
+
+My next goal is to laser cut an acrylic housing for the speaker so that it has a more aesthetic (and safe) presentation, as opposed to its current state of free wires and exposed connections.
+
+<br/>
+
+![POV](/images/speaker.png){: .align-center width="300px"}
+*Speaker circuitry (speaker components not pictured) on blank PCB, attached to a custom-built AC/DC converter on another blank PCB.*
+
+<br/>
+
+![POV](/images/speaker2.png){: .align-center width="300px"}
+*One of two speaker outputs.*
+

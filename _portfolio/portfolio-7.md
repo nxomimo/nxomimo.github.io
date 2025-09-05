@@ -1,9 +1,7 @@
 ---
-title: "Leland Quarterly Poem Publication"
-excerpt: "*Creative writing work published in Leland Quarterly's Fall 2022 Issue.*<br/><img src='/images/lq2.png' width='300'>"
+title: "Graphics Library and Display Modules"
+excerpt: "*Graphics and framebuffer modules built in C on bare-metal Raspberry Pi.*<br/><img src='/images/fb.png' width='500'>"
 collection: portfolio
 ---
 
-Personal poem published in Leland Quarterly's 2022 Fall Issue: "In Newness of Life". Leland Quarterly is Stanford's premier literary magazine for writing, art, and creative expression.
-
-I often write poetry in my spare time as a form of catharsis: a method to process what I've been through, as well as reflect on where I'm going. If you would like to read this poem, you can find it [here](https://issuu.com/lelandquarterly/docs/lqfall2022_11479_) on page 19.
+I developed a framebuffer module and graphics library on bare-metal Raspberry Pi. This assignment gave me *by far* the most headaches of my bare-metal Pi projects, mainly due to some tricky memory clean-up errors! Check out the code in [this Github repository](https://gitfront.io/r/nxomimo/mMQR5JtQEgLy/graphics/).

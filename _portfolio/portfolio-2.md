@@ -1,31 +1,20 @@
 ---
-title: "Speaker System Circuit"
-excerpt: "*Below is Texas Instruments' TPA3122D2 evaluation module schematic, which I brought to life in a speaker circuit.*<br/><img src='/images/tsspeaker.png' width='500'>"
+title: "Persistence of Vision Display"
+excerpt: "*Scrappy rotating LED display built on bare-metal Raspberry Pi... 
+and a disassembled Honeywell fan.*<br/><img src='/images/pov_main.png' width='400'>"
 collection: portfolio
 ---
 
-The final lab objective for my Circuits II class was to create a functional speaker system utilizing Texas Instruments' TPA3122D2 EVM schematic.
+![POV](/images/pov.png){: .align-right width="290"}
+A spherical persistence of vision (POV) LED Display that works by spinning a circular array of LEDs and relies on the eyes' natural “refresh rates” to create the illusion of a solid, continuous image on a sphere. Equipped with an LED strip, a hall sensor, 3 battery packs and framed in a disassembled desk fan, it creates patterns by reacting to magnets spaced across the circular base.
 
-![POV](/images/tsspeaker.png){: .align-center width="500"}
+This was my final project for [CS107E](https://cs107e.github.io/about/), Stanford's intensive systems programming course taught on Raspberry Pi. Although my group was inspired by online resources (namely [this one](https://youtu.be/g7_VKGsEKeA)), we coded every module for the project ourselves in C on Raspberry Pi, including the hall sensor driver, the LED driver, and the timing algorithm.
 
-Tasks for this project included:
+This project was made possible by my awesome project partners (shoutout Didi and Aanya!), many nights in Stanford's Lab64, and my friend Frances' loaned Honeywell fan. We were on a tight deadline and had to source parts quickly—hence our mangling of the Honeywell fan for its motor-but we were quite satsfied with the final product as we managed to display a soccer ball!
 
-* planning where to arrange components
-* soldering components onto a blank PCB
-* soldering in an audio jack through which a Bluetooth/FM transmitter interfaces
-* forming output connections to two speakers
-* testing and troubleshooting any bad connections
-* jamming out!
-
-My next goal is to laser cut an acrylic housing for the speaker so that it has a more aesthetic (and safe) presentation, as opposed to its current state of free wires and exposed connections.
+You can view photos, code, and further descriptions of our work on [the project GitHub, hosted on Didi's repository](https://github.com/didikamalova/POV-Display-RaspberryPi). Unfortunately, videos of the project do not compliment the "persistence of vision" effect as camera frame rates are faster than those of our eyes.
 
 <br/>
 
-![POV](/images/speaker.png){: .align-center width="300px"}
-*Speaker circuitry (speaker components not pictured) on blank PCB, attached to a custom-built AC/DC converter on another blank PCB.*
-
-<br/>
-
-![POV](/images/speaker2.png){: .align-center width="300px"}
-*One of two speaker outputs.*
-
+![POV](/images/hall.png){: .align-center width="300px"}
+*Hall sensor that detects changes in the nearby magnetic field to trigger different LED patterns.*
