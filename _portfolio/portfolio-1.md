@@ -15,11 +15,4 @@ Key features included:
 - **Harmonics**: Layered scaled harmonic overtones (2×, 4×, and 8× the base frequency) onto each note to mimic organ-like timbres.  
 - **Dynamics**: Implemented exponential amplitude decay, allowing for the music to be output at varying volumes.
 
-These features were integrated through custom Verilog modules, finite state machines, and careful timing analysis.
-
-## Key Skills
-- **Verilog HDL**: Designed custom modules (chords, echo, harmonics, dynamics) with FSM-based control.  
-- **Digital Systems Design**: Experience with timing analysis, pipelining, and modular hardware architecture.  
-- **FPGA Development**: Implemented and tested on Xilinx PYNQ board with on-board peripherals.  
-- **Signal Processing**: Applied concepts like harmonic synthesis, exponential decay envelopes, and waveform mixing.  
-- **Simulation & Verification**: Built testbenches to validate module functionality before hardware deployment.  
+These features were integrated through custom Verilog modules with FSM-based control. Careful timing analysis was conducted to ensure smooth audio output. The final report can be accessed [here as a .pdf](/files/ee108finalreport.pdf).
