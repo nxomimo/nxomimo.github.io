@@ -12,5 +12,7 @@ This assignment involved four separate exercises for exploring performance, area
 - **Exercise 4: Finding an "Optimal" Multi-Core Design**: Used findings in the past three exercises to generate the "optimal" multi-core design for each of the three applications.
 
 ## Assignment 2: Register Renaming on a RISC-V Processor
+Used **SystemVerilog** to implement the register renaming optimization into the source code of CVA6 (an open source RISC-V processor). A qualitative walkthrough of the register renaming algorithm was required alongside our SystemVerilog code, and can be found [here](/files/register_renaming.pdf).
 
 ## Assignment 3: Formal Verification
+Formally verified aspects of the CVA6 implementation using JasperGold and the RISC-V Formal Interface (RVFI). More specifically, verified three specific instructions: ADD, LUI, and SW.
