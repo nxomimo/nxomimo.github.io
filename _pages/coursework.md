@@ -4,8 +4,9 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
-
 Undergraduate GPA: 4.03
+
+Below is a list of technical coursework completed over my undergraduate career.
 
 ## Senior Year (2024-2025)
 - **Exercise 4: Finding an "Optimal" Multi-Core Design**
@@ -13,8 +14,12 @@ Undergraduate GPA: 4.03
 ## Junior Year (2023-2024)
 
 ## Sophomore Year (2022-2023)
-- **ENGR 40M:**
-- **ME 1:**
+- **CS 107E:** Computer Systems from the Ground Up (C)
+- **EE 101A, 101B:** Circuits I & II
+- **EE 102A, 102B:** Signal Processing and Linear Systems I & II
+- **ENGR 40M:** An Intro to Making: What is EE
+- **ME 1:** Introduction to Mechanical Engineering
+- **PHYSICS 45:** Light and Heat
 
 ## Freshman Year (2021-2022)
 - **CS 106A:** Programming Methodology (Python)
