@@ -10,10 +10,10 @@ Below is a list of technical coursework completed over my undergraduate career (
 ## Senior Year (2024-2025)
 *Studied abroad in Florence, Italy during the winter quarter.*
 - **COMM 166:** Virtual People
-- **EE 104:** Introduction to Machine Learning
-- **EE 168:** Introduction to Digital Image Processing
+- **EE 104:** Introduction to Machine Learning (Python)
+- **EE 168:** Introduction to Digital Image Processing (MATLAB, Python)
 - **EE 261:** The Fourier Transform and its Applications
-- **EE 271:** Introduction to VLSI Systems
+- **EE 271:** Introduction to VLSI Systems (Synopsys Design Compiler)
 - **EE 284A:** Introduction to Internet of Things
 - **EE 292K:** Insanely Great Products
 - **EE 303:** Autonomous Implantable Systems
@@ -25,7 +25,7 @@ Below is a list of technical coursework completed over my undergraduate career (
 - **CS 111:** Operating Systems Principles (C++)
 - **COMM 230A:** Digital Civil Society
 - **EE 65:** Modern Physics for Engineers
-- **EE 108:** Digital System Design (Verilog)
+- **EE 108:** Digital System Design (Verilog, FPGA)
 - **EE 180:** Digital Systems Architecture (MIPS, SystemVerilog)
 - **EE 282:** Computer Systems Architecture (SystemVerilog)
 - **EE 292A:** Electronic Design Automation (EDA) and Machine Learning Hardware
@@ -34,7 +34,7 @@ Below is a list of technical coursework completed over my undergraduate career (
 
 ## Sophomore Year (2022-2023)
 - **CS 107E:** Computer Systems from the Ground Up (C)
-- **EE 101A, 101B:** Circuits I & II
+- **EE 101A, 101B:** Circuits I & II (SPICE)
 - **EE 102A, 102B:** Signal Processing and Linear Systems I & II
 - **ENGR 40M:** An Intro to Making: What is EE
 - **ME 1:** Introduction to Mechanical Engineering
