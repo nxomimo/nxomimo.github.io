@@ -8,7 +8,7 @@ main:
     url: /portfolio/
 
   - title: "Coursework"
-   url: /coursework/
+    url: /coursework/
 
   #- title: "Publications"
   #  url: /publications/    
