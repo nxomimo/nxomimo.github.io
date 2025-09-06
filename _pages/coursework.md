@@ -9,13 +9,23 @@ Undergraduate GPA: 4.03
 Below is a list of technical coursework completed over my undergraduate career.
 
 ## Senior Year (2024-2025)
-- **Exercise 4: Finding an "Optimal" Multi-Core Design**
+*Studied abroad in Florence, Italy during the winter quarter.*
+- **COMM 166:** Virtual People
+- **EE 168:** Introduction to Digital Image Processing
+- **EE 261:** The Fourier Transform and its Applications
+- **EE 271:** Introduction to VLSI Systems
 
 ## Junior Year (2023-2024)
-- **CS 103:**
-- **CS 109:** Introduction to Probability for Computer Scientists
-- **CS 111:**
-- **EE 108:** Digital System Design
+- **CS 103:** Mathematical Foundations of Computing
+- **CS 109:** Introduction to Probability for Computer Scientists (Python)
+- **CS 111:** Operating Systems Principles (C++)
+- **COMM 230A:** Digital Civil Society
+- **EE 65:** Modern Physics for Engineers
+- **EE 108:** Digital System Design (Verilog)
+- **EE 180:** Digital Systems Architecture (MIPS, SystemVerilog)
+- **EE 282:** Computer Systems Architecture (SystemVerilog)
+- **EE 292A:** Electronic Design Automation (EDA) and Machine Learning Hardware
+- **EE 310:** Ubiquitous Sensing, Computing, and Communication Seminar
 - **MS&E 193:** Technology and National Security
 
 ## Sophomore Year (2022-2023)
