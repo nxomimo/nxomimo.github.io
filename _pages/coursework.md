@@ -4,14 +4,13 @@ title: "Coursework"
 permalink: /coursework/
 author_profile: true
 ---
-Undergraduate GPA: 4.03
 
-Below is a list of technical coursework completed over my undergraduate career.
+Below is a list of technical coursework completed over my undergraduate career (GPA: 4.03).
 
 ## Senior Year (2024-2025)
 *Studied abroad in Florence, Italy during the winter quarter.*
 - **COMM 166:** Virtual People
-- **EE104:** Introduction to Machine Learning
+- **EE 104:** Introduction to Machine Learning
 - **EE 168:** Introduction to Digital Image Processing
 - **EE 261:** The Fourier Transform and its Applications
 - **EE 271:** Introduction to VLSI Systems
