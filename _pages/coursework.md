@@ -11,9 +11,14 @@ Below is a list of technical coursework completed over my undergraduate career.
 ## Senior Year (2024-2025)
 *Studied abroad in Florence, Italy during the winter quarter.*
 - **COMM 166:** Virtual People
+- **EE104:** Introduction to Machine Learning
 - **EE 168:** Introduction to Digital Image Processing
 - **EE 261:** The Fourier Transform and its Applications
 - **EE 271:** Introduction to VLSI Systems
+- **EE 284A:** Introduction to Internet of Things
+- **EE 292K:** Insanely Great Products
+- **EE 303:** Autonomous Implantable Systems
+- **EE 374:** Fundamentals of Blockchain Infrastructure
 
 ## Junior Year (2023-2024)
 - **CS 103:** Mathematical Foundations of Computing
