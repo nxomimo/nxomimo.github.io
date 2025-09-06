@@ -12,6 +12,11 @@ Below is a list of technical coursework completed over my undergraduate career.
 - **Exercise 4: Finding an "Optimal" Multi-Core Design**
 
 ## Junior Year (2023-2024)
+- **CS 103:**
+- **CS 109:** Introduction to Probability for Computer Scientists
+- **CS 111:**
+- **EE 108:** Digital System Design
+- **MS&E 193:** Technology and National Security
 
 ## Sophomore Year (2022-2023)
 - **CS 107E:** Computer Systems from the Ground Up (C)
