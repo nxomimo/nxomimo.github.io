@@ -52,7 +52,8 @@ Technical Skills
 * Data Analysis
 * Programming
   * Python, C, C++, MATLAB, Assembly (MIPS, RISC-V)
-* HDFL & Digital Design
+* HDL & Digital Design
+
   * Verilog, SystemVerilog, FPGA (Vivado), testbench development
 * EDA & Simulation Tools
   * Cadence Virtuoso, Synopsys Design Compiler, SPICE (LTspice), Sentaurus Device
